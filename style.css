@@ -1,0 +1,37 @@
+:root {
+    --btl-blue: #1DA1F2 !important;
+    --btl-rounding: 8px !important;
+    --rounding: var(--btl-rounding) !important;
+    --btl-xx-L-gray: #F5F8FA !important;
+    --btl-x-L-gray: #E1E8ED !important;
+    --btl-L-gray: #AAB8C2 !important;
+    --btl-D-gray: #657786 !important;
+    --btl-black: #14171A !important;
+}
+
+a.css-175oi2r:nth-child(7) > div:nth-child(1), a.css-175oi2r:nth-child(9), a.css-175oi2r:nth-child(10) {
+    display: none;
+}
+.r-1fkl15p > div:nth-child(1) {
+    color: #fff;
+
+}
+
+.r-sdzlij {
+    border-radius: var(--btl-rounding);
+}
+.r-1fkl15p {
+    background-color: var(--btl-blue) ! important;
+}
+.r-e7q0ms :hover {
+    background-color: var(--btl-xx-L-gray) !important;
+    transition-duration: 0.2s;
+    span.r-1inkyih:nth-child(1) > div:nth-child(1) > div:nth-child(1) > span:nth-child(1) > span:nth-child(1) {
+        color: #000 !important;
+        transition-duration: 0.2s;
+    }
+}
+span.r-1inkyih:nth-child(1) > div:nth-child(1) > div:nth-child(1) > span:nth-child(1) > span:nth-child(1) {
+    color: #fff;
+}
+
